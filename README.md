@@ -1,2 +1,2 @@
 # TicTacToe
-making a simple tic tac game
+making a simple cute boi
